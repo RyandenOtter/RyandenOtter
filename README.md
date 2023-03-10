@@ -6,4 +6,3 @@ I currently own and opearate a consulting company called [Realist Consulting](ht
 
 ## Resources on Github
 - [dotfiles](https://www.github.com/RyandenOtter/dotfiles) - My personal configuration for NeoVim
-- [cheat-sheet](https://www.github.com/RyandenOtter/cheat-sheet) - A database of knowledge that I have picked up over the years (WIP)
