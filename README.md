@@ -1,8 +1,6 @@
 ### Hello there! 👋
 
-I am Ryan, a 30 year old programmer! I started apprenticing as a programmer at 14 and have been working full time since I was 16 (I finished High School early). You can find me on [LinkedIn](https://www.linkedin.com/in/ryandenotter/) or [Twitter](https://twitter.com/ryandenotter).
+I am a Senior Data Engineer and Cloud Architect with over 16 years of experience in many technologies including Google Cloud Platform, Python, SQL.  I have worked as a consultant on many large-scale cloud projects, interacting with SMEs and clients to architect, design, implement, and maintain complex applications in the cloud.  I have also successfully led large-scale development teams and helped clients migrate their on-prem data warehouses to GCP. 
+You can find me on [LinkedIn](https://www.linkedin.com/in/ryandenotter/)
 
 I currently own and opearate a consulting company called [Realist Consulting](http://www.realist.ai) where we provide Google Cloud Platform consulting and development services to our customers.
-
-## Resources on Github
-- [dotfiles](https://www.github.com/RyandenOtter/dotfiles) - My personal configuration for NeoVim
